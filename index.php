@@ -21,9 +21,9 @@ $rates = array(
         "TEUR" => 0.7
     ),
     "FEUR" => array(
-        "TUSD" => 1.0,
+        "TUSD" => 1.1,
         "TCAD" => 1.4,
-        "TEUR" => 0.9
+        "TEUR" => 1.0
     ),
 );
 
